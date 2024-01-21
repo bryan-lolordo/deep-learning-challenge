@@ -1,6 +1,8 @@
 # Overview of the analysis:
 The purpose of this analysis is to create a machine learning model to help determine and predict which applicants will have success in their projects and should receive funding. The goal is to use TensorFlow to create a model then optimize it to increase the accuracy. 
 
+The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
+
 # Results:
 1. Original model received accuracy of 72.5%
 2. Optimized model received accuracy level of 79%
